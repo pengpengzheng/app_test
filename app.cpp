@@ -2,6 +2,6 @@
 int mian()
 {
     printf("hello word!");
-    printf("hello");
+    //printf("hello");
 }
 
